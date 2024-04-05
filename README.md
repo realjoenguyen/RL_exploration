@@ -4,6 +4,9 @@ Pytorch implementation of [Mastering Diverse Domains through World Models](https
 ## Wandb reports
 https://wandb.ai/osu-pgm/pgm-rl
 
+## Presentation:
+please find at the presentation file :) 
+
 ## Instructions
 Add `MUJOCO_GL=egl` before python command if you have this error
 
